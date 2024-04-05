@@ -1,0 +1,39 @@
+/* Требования:
+- ширина блока 400px
+- размер заголовка первого уровня 20px
+- размер заголовков второго уровня 15px
+- выравниване текста по ширине
+- отступ между строкам 30px
+- отступ первой строки 30px */
+
+.main{
+    width: 400px;
+}
+
+h1{
+    font-size: 20px;
+    text-align: center;
+    color: blue;
+}
+
+h2{
+    font-size: 15px;
+    text-align: center;
+    color: blue;
+}
+
+p{
+    text-align: justify;
+    line-height: 30px;
+    text-indent: 30px;
+}
+
+.red{
+    color: red;
+    font-weight: bold;
+}
+
+.blue{
+    color: blue;
+    font-style: italic;
+}
