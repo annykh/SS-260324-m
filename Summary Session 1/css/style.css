@@ -1,0 +1,38 @@
+.redColor{
+    /* цвет текста */
+    color: red;
+    /* насыщенность/жирность текста */
+    font-weight: bold;
+    /* курсивный текст */
+    font-style: italic;
+    /* Декорация текста */
+    text-decoration: underline;
+}
+
+.p1{
+    /* размер текста */
+    font-size: 20px;
+    /* ширина */
+    width: 500px;
+    /* выравнивание по ширине */
+    text-align: justify;
+    /* отступ первой строки */
+    text-indent: 40px;
+    /* отступ между строками */
+    line-height: 40px;
+}
+
+h1{
+    /* выравнивание по центру  */
+    text-align: center;
+}
+
+
+.block1{
+    width: 50%;
+    border: 5px solid black;
+}
+
+h2{
+    text-align: center;
+}
